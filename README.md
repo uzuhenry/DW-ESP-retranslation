@@ -40,7 +40,7 @@ También queremos agredecer por su inestimable ayuda a:
 + Emuladores de PC
   - ePSXe + Bios HLE (Recomendado) [Recordad, la velocidad de CPU está a 0x por defecto, ponedla a 1x]
   - no$psx
-  - Psxfin
+  - Psxfin (ligeros errores de sonido)
   
 + Emuladores móviles
   - EmuPSX XL (Recomendado)
