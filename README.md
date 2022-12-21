@@ -54,6 +54,7 @@ Las recomendaciones se basan única y exclusivamente en el rendimiento del juego
 A continuación enumeramos algunos problemas gráficos leves que no hemos podido solucionar.
 
 + Bug del banco
+ 
   Al abrir el menú del banco, las dos listas no se muestran correctamente. Este fallo es únicamente visual.
   
   Esto se puede solventar simplemente bajando hacia abajo y volviendo a subir en la lista para que los objetos se muestren correctamente.
@@ -62,6 +63,7 @@ A continuación enumeramos algunos problemas gráficos leves que no hemos podido
   ![Bug del banco](https://user-images.githubusercontent.com/1196587/208896323-9c3b0a4f-d6e9-4e71-bd1c-df53c3405818.gif)
   
 + Bug al vender cartas
+ 
   Al intentar vender cartas, las cifras de unidades y precio se descolocan. Este fallo es únicamente visual.
   
   El precio es el mismo, es un bug leve que no hemos podido solucionar.
