@@ -5,7 +5,7 @@ Este es un parche que traduce el juego Digimon World al Español desde el japon�
 
 Este parche aspira a no sólo corregir eso, sino a proporcionar una experiencia rica y lo más óptima posible. Hemos traducido el juego entero desde el japonés, todo el texto del juego está traducido, desde menús a gráficos. Esto acompañado a usar de base la versión japonesa no sólo nos libra de infinidad de bugs, sino que el gameplay es completamente diferente y mucho más dinámico en los combates. 
 
-Pero no nos quedamos ahí. Hemos solucionado también muchos bugs que tenía el juego, hemos añadido unas cuantas mejoras de jugabilidad, y alguna que otra sorpresa ;) .
+Pero no nos quedamos ahí. Hemos solucionado también muchos bugs que tenía el juego, hemos añadido unas cuantas mejoras de jugabilidad, y alguna que otra sorpresa ;) . ¡Esperamos que lo disfrutéis mucho!
 
 Algunos bugs que solucionamos son:
   + La música ya no se reinicia a cada cambio de mapa.
