@@ -27,6 +27,10 @@ También queremos agredecer por su inestimable ayuda a:
   
   El randomizer se hizo basándose en el randomizer de la versión americana: https://github.com/SydMontague/digimon_world_randomizer
 
+# Descargar
+
+  Ya queda nada pa que salga.
+
 # Intrucciones de uso
 + 1 Seleccionar la imagen original japonesa ( .iso , .bin ).
 + 2 Seleccionar la ubicación y nombre del archivo parcheado que se generará.
