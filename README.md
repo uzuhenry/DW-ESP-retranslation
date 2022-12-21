@@ -38,7 +38,7 @@ También queremos agredecer por su inestimable ayuda a:
 
 # Emuladores compatibles
 + Emuladores de PC
-  - ePSXe + Bios HLE (Recomendado)
+  - ePSXe + Bios HLE (Recomendado) [Recordad la velocidad de CPU está puesta a 0x por defecto, ponedla a 1x]
   - no$psx
   
 + Emuladores móviles
