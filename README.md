@@ -36,7 +36,7 @@ También queremos agradecer por su inestimable ayuda a:
   + (V.100) 22/12/2022- https://drive.google.com/file/d/1LuY4Ri7UcpILw0W6nLdzCahOr4tDlBJm/view?usp=sharing
 
 # Intrucciones de uso
-+ 1 Seleccionar la imagen original japonesa ( .iso , .bin ).
++ 1 Seleccionar la imagen original japonesa ( .iso , si es .bin, cambia el nombre al archivo por .iso ).
 + 2 Seleccionar la ubicación y nombre del archivo parcheado que se generará.
 + 3 Seleccionar las opciones de randomización deseadas.
 + 4 Hacer click en el botón "PARCHEAR".
