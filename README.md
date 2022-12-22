@@ -33,7 +33,7 @@ También queremos agradecer por su inestimable ayuda a:
 
 # Descargar
 
-  Ya queda nada pa que salga.
+  + (V.100) 22/12/2022- https://drive.google.com/file/d/1LuY4Ri7UcpILw0W6nLdzCahOr4tDlBJm/view?usp=sharing
 
 # Intrucciones de uso
 + 1 Seleccionar la imagen original japonesa ( .iso , .bin ).
