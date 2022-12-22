@@ -43,6 +43,8 @@ También queremos agradecer por su inestimable ayuda a:
 
 ![Intrucciones de parcheo](https://user-images.githubusercontent.com/1196587/208897500-e25dac5b-5117-4175-9086-fb8bd2fa089c.png)
 
+Puede ser necesario instalar .NET
+https://dotnet.microsoft.com/es-es/download/dotnet/thank-you/runtime-desktop-6.0.12-windows-x64-installer?cid=getdotnetcore
 
 # Emuladores compatibles
 + Emuladores de PC
