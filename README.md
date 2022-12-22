@@ -19,7 +19,7 @@ Este parche no habría sido posible sin la ENORME ayuda proporcionada por:
   - Romsstar
   - SydMontague
   
-También queremos agredecer por su inestimable ayuda a:
+También queremos agradecer por su inestimable ayuda a:
   - CUE
   - IlDucci
   - Hormox
