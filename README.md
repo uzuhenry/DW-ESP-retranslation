@@ -80,3 +80,10 @@ A continuación enumeramos algunos problemas gráficos leves que no hemos podido
   El precio es el mismo, es un bug leve que no hemos podido solucionar.
   
   ![Bug vender cartas](https://user-images.githubusercontent.com/1196587/208896452-8f8a32f4-4755-4a78-9173-626e65a71f77.gif)
+  
++ Bug al ser herido
+
+  Al resultar herido, el mensaje dice "xmon dio está herido". Este fallo es debido a la construcción de los mensajes en japonés. Es un bug sólo visual.
+  
+  ![Bug herido](https://user-images.githubusercontent.com/1196587/209391426-0a5b00eb-99aa-47a7-af32-25d477b5a4f1.png)
+
