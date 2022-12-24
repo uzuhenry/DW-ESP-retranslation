@@ -51,6 +51,7 @@ https://dotnet.microsoft.com/es-es/download/dotnet/thank-you/runtime-desktop-6.0
   - ePSXe + Bios HLE (Recomendado) [Recordad, la velocidad de CPU está a 0x por defecto, ponedla a 1x]
   - no$psx
   - Psxfin (ligeros errores de sonido)
+  - XEBRA
   
 + Emuladores móviles
   - EmuPSX XL (Recomendado)
