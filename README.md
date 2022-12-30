@@ -1,10 +1,6 @@
 # Retraducción al Español - Digimon World (PSX)
 Parche realizado por Dark_Kudoh, Loud Kuyuki y uzuhenry.
 
-Descárgalo aquí: https://drive.google.com/file/d/1LuY4Ri7UcpILw0W6nLdzCahOr4tDlBJm/view?usp=sharing (V1.00) 22/12/2022
-
-
-
 Este es un parche que traduce el juego Digimon World al Español desde el japonés. La versión que nos llegó a Europa vino con una traducción terriblemente incomprensible, un montonazo de bugs y errores que afectaban al gameplay, y la imposibilidad directa de pasarse el juego en nuestro idioma.
 
 Este parche aspira a no sólo corregir eso, sino a proporcionar una experiencia rica y lo más óptima posible. Hemos traducido el juego entero desde el japonés, todo el texto del juego está traducido, desde menús a gráficos. Esto acompañado a usar de base la versión japonesa no sólo nos libra de infinidad de bugs, sino que el gameplay es completamente diferente y mucho más dinámico en los combates. 
@@ -28,13 +24,10 @@ También queremos agradecer por su inestimable ayuda a:
   - IlDucci
   - Hormox
   - Mheerkino
+  - Leviatarius
   
   El randomizer se hizo basándose en el randomizer de la versión americana: https://github.com/SydMontague/digimon_world_randomizer
-
-# Descargar
-
-  + (V.100) 22/12/2022- https://drive.google.com/file/d/1LuY4Ri7UcpILw0W6nLdzCahOr4tDlBJm/view?usp=sharing
-
+  
 # Intrucciones de uso
 + 1 Seleccionar la imagen original japonesa ( .iso , si es .bin, cambia el nombre al archivo por .iso ).
 + 2 Seleccionar la ubicación y nombre del archivo parcheado que se generará.
@@ -46,7 +39,20 @@ También queremos agradecer por su inestimable ayuda a:
 Puede ser necesario instalar .NET
 https://dotnet.microsoft.com/es-es/download/dotnet/thank-you/runtime-desktop-6.0.12-windows-x64-installer?cid=getdotnetcore
 
+# Descargar
+
+Puedes consultar el changelog aquí: https://github.com/uzuhenry/DW-ESP-retranslation/blob/main/Changelog.md
+
+  + [V1.1] 39/12/2022 - https://drive.google.com/file/d/1IumwkOTIXQgYiDToaNhL43pEwoq2L_s0/view?usp=sharing
+  + [V.100] 22/12/2022 - https://drive.google.com/file/d/1LuY4Ri7UcpILw0W6nLdzCahOr4tDlBJm/view?usp=sharing
+
+
 # Emuladores compatibles
++ Versión 1.1
+  La versión 1.1 soluciona el problema con el check anti piratería, lo que hace que sea compatible con muchos más emuladores y sistemas. Iremos actualizando la lista conforme la comunidad nos comunique compatiblidades.
+  
+  - DuckStation (Recomendado)
+  
 + Emuladores de PC
   - ePSXe + Bios HLE (Recomendado) [Recordad, la velocidad de CPU está a 0x por defecto, ponedla a 1x]
   - no$psx
