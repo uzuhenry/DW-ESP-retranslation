@@ -1,5 +1,5 @@
 # V 1.1  -  30/12/2022
-  Esta actualización soluciona varios errores de traducción y contiene algunos fixes de bugs nuevos del juego original.
+  Esta actualización soluciona varios errores de traducción y contiene algunos fixes de bugs del juego original nuevos.
   
   - El parcheador ahora sugerirá un nombre de archivo a generar automáticamente, se recomienda igualmente elegir un archivo nuevo. 
   - Se ha eludido el check anti-piratería del juego, lo que aumenta enormemente la compatiblidad del parche. (Gracias a Leviatarius por la ayuda).
