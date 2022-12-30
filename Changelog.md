@@ -1,6 +1,8 @@
 # V 1.1  -  30/12/2022
   Esta actualización soluciona varios errores de traducción y contiene algunos fixes de bugs del juego original nuevos.
   
+  **Las partidas guardadas son compatibles entre parches**
+  
   - El parcheador ahora sugerirá un nombre de archivo a generar automáticamente, se recomienda igualmente elegir un archivo nuevo. 
   - Se ha eludido el check anti-piratería del juego, lo que aumenta enormemente la compatiblidad del parche. (Gracias a Leviatarius por la ayuda).
   - Se ha arreglado un bug con el trigger que activa la Antigua Dinofrontera como destino de viaje en AeroBirdra.
