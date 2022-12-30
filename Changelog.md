@@ -1,4 +1,4 @@
-# V1.1 - 30/12/2022
+# V 1.1  -  30/12/2022
   Esta actualización soluciona varios errores de traducción y contiene algunos fixes de bugs nuevos del juego original.
   
   - El parcheador ahora sugerirá un nombre de archivo a generar automáticamente, se recomienda igualmente elegir un archivo nuevo. 
@@ -11,5 +11,5 @@
   - Solucionados algunos errores en algunos diálogos.
   - Corregidas algunas faltas de ortografía y typos.
 
-# V1.00 - 22/12/2022
+# V 1.00  -  22/12/2022
   - Lanzamiento de la traducción
