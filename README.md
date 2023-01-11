@@ -70,7 +70,14 @@ Puedes consultar el changelog aquí: https://github.com/uzuhenry/DW-ESP-retransl
 Las recomendaciones se basan única y exclusivamente en el rendimiento del juego parcheado en los mismos.
 
 # Problemas conocidos
-A continuación enumeramos algunos problemas gráficos leves que no hemos podido solucionar.
+A continuación enumeramos algunos problemas leves que no hemos podido solucionar.
+
++ Bug ciudad comienzo al digipuente 
+  
+  Si en ciudad comienzo sur tenemos sólo la segunda tienda y el restaurante, el punto de transporte a la zona norte manda hacia el digipuente.
+  Se puede sortear entrando desde el gimnasio.
+  
+  Para solucionarlo, la opción más rápida es reclutar a Centaurmon en el bosque Amida.
 
 + Bug del banco
  
