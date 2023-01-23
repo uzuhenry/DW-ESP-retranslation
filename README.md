@@ -45,7 +45,7 @@ Puedes consultar el changelog aquí: https://github.com/uzuhenry/DW-ESP-retransl
 
   + **[V1.1] 30/12/2022** - https://drive.google.com/file/d/1IumwkOTIXQgYiDToaNhL43pEwoq2L_s0/view?usp=sharing
   
-  + [V.100] 22/12/2022 - https://drive.google.com/file/d/1LuY4Ri7UcpILw0W6nLdzCahOr4tDlBJm/view?usp=sharing
+  + [V1.0] 22/12/2022 - https://drive.google.com/file/d/1LuY4Ri7UcpILw0W6nLdzCahOr4tDlBJm/view?usp=sharing
 
 
 # Emuladores compatibles
