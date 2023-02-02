@@ -78,6 +78,10 @@ A continuación enumeramos algunos problemas leves que no hemos podido soluciona
   Se puede sortear entrando desde el gimnasio.
   
   Para solucionarlo, la opción más rápida es reclutar a Centaurmon en el bosque Amida.
+  
++ Bug de igamon
+
+  Si Etemon está reclutado, igamon no cargará correctamente en su evento bloqueando tarde o temprano el juego. Este bug se solucionará en la 1.2.
 
 + Bug del banco
  
