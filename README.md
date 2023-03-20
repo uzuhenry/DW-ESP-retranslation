@@ -1,6 +1,8 @@
 # Retraducción al Español - Digimon World (PSX)
 Parche realizado por Dark_Kudoh, Loud Kuyuki y uzuhenry.
 
+Puedes ver el tráiler aquí -> https://youtu.be/lh2byVhdWDU
+
 Este es un parche que traduce el juego Digimon World al Español desde el japonés. La versión que nos llegó a Europa vino con una traducción terriblemente incomprensible, un montonazo de bugs y errores que afectaban al gameplay, y la imposibilidad directa de pasarse el juego en nuestro idioma.
 
 Este parche aspira a no sólo corregir eso, sino a proporcionar una experiencia rica y lo más óptima posible. Hemos traducido el juego entero desde el japonés, todo el texto del juego está traducido, desde menús a gráficos. Esto acompañado a usar de base la versión japonesa no sólo nos libra de infinidad de bugs, sino que el gameplay es completamente diferente y mucho más dinámico en los combates. 
