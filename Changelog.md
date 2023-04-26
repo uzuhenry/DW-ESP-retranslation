@@ -1,5 +1,5 @@
 # V 1.2  -  ¿26?/04/2023
-  Esta actualización remata la correcciones de la traducción, arregla los últimos bugs puñeteros que afectaban al gameplay y añade nuevos randomizers.
+  Esta actualización remata la correcciones de la traducción, arregla los últimos molestos bugs que afectaban al gameplay y añade nuevos randomizers.
   
   **Las partidas guardadas son compatibles entre parches**
   
