@@ -36,7 +36,7 @@ También queremos agradecer por su inestimable ayuda a:
 + 3 Seleccionar las opciones de randomización deseadas.
 + 4 Hacer click en el botón "PARCHEAR".
 
-![Intrucciones de parcheo]([https://user-images.githubusercontent.com/1196587/234529498-4d989a4d-a4f2-43c1-9c17-c0dfe530e210.png])
+![Intrucciones de parcheo](https://user-images.githubusercontent.com/1196587/234529498-4d989a4d-a4f2-43c1-9c17-c0dfe530e210.png)
 
 Puede ser necesario instalar .NET
 https://dotnet.microsoft.com/es-es/download/dotnet/thank-you/runtime-desktop-6.0.12-windows-x64-installer?cid=getdotnetcore
