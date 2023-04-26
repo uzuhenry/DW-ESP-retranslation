@@ -48,11 +48,14 @@ Puedes consultar el changelog aquí: https://github.com/uzuhenry/DW-ESP-retransl
   + **[V1.1] 30/12/2022** - https://drive.google.com/file/d/1IumwkOTIXQgYiDToaNhL43pEwoq2L_s0/view?usp=sharing
   
   + [V1.0] 22/12/2022 - https://drive.google.com/file/d/1LuY4Ri7UcpILw0W6nLdzCahOr4tDlBJm/view?usp=sharing
+  
+# Contenido adicional
 
+Hemos añadido algo de contenido extra adicional al juego. Si encuentras un dato paradoja, deberías llevarlo al cuarto de atrás de casa de jijimon.
 
 # Emuladores compatibles
-+ Versión 1.1
-  La versión 1.1 soluciona el problema con el check anti piratería, lo que hace que sea compatible con muchos más emuladores y sistemas. Iremos actualizando la lista conforme la comunidad nos comunique compatiblidades.
++ Versión 1.1 y posteriores:
+  La versión 1.1 y posteriores solucionan el problema con el check anti piratería, lo que hace que sea compatible con muchos más emuladores y sistemas. Iremos actualizando la lista conforme la comunidad nos comunique compatiblidades.
   
   - DuckStation (Recomendado)
   
@@ -73,17 +76,6 @@ Las recomendaciones se basan única y exclusivamente en el rendimiento del juego
 
 # Problemas conocidos
 A continuación enumeramos algunos problemas leves que no hemos podido solucionar.
-
-+ Bug ciudad comienzo al digipuente 
-  
-  Si en ciudad comienzo sur tenemos sólo la segunda tienda y el restaurante, el punto de transporte a la zona norte manda hacia el digipuente.
-  Se puede sortear entrando desde el gimnasio.
-  
-  Para solucionarlo, la opción más rápida es reclutar a Centaurmon en el bosque Amida.
-  
-+ Bug de igamon
-
-  Si Etemon está reclutado, igamon no cargará correctamente en su evento bloqueando tarde o temprano el juego. Este bug se solucionará en la 1.2.
 
 + Bug del banco
  
