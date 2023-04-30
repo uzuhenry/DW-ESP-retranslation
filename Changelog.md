@@ -1,8 +1,9 @@
 # V 1.21  -  30/04/2023
   El bug no quería por las buenas, así que ha tenido que ser por las malas.
-  -Bug de Insekimon al fin arreglado (y esperemos que ahora de verdad), si sale volando es lo normal.
   
   **Las partidas guardadas son compatibles entre parches**
+  
+  -Bug de Insekimon al fin arreglado (y esperemos que ahora de verdad), si sale volando es lo normal.
   
 # V 1.2  -  26/04/2023
   Esta actualización remata la correcciones de la traducción, arregla los últimos molestos bugs que afectaban al gameplay y añade nuevos randomizers.
