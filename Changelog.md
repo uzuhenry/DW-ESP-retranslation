@@ -1,3 +1,10 @@
+# V 1.22  -  25/05/2023
+  Se han solucionado un par de casos no previstos del randomizador de enemigos, si no lo has usado/vas a usar, esta actualización es irrelevante.
+  
+  **Las partidas guardadas son compatibles entre parches**
+  
+  -Solucionados un par de bugs en la randomización de enemigos, en concreto un par de crashes y algunos enemigos mal mapeados que no cargaban.
+  
 # V 1.21  -  30/04/2023
   El bug no quería por las buenas, así que ha tenido que ser por las malas.
   
