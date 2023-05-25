@@ -31,6 +31,8 @@ También queremos agradecer por su inestimable ayuda a:
   El randomizer se hizo basándose en el randomizer de la versión americana: https://github.com/SydMontague/digimon_world_randomizer
   
 # Intrucciones de uso
+**IMPORTANTE** Una imagen correcta tiene el siguiente hash MD5 : 2098ec4cf4ba45b6b432b05397a3d753
+
 + 1 Seleccionar la imagen original japonesa ( .iso , si es .bin, cambia el nombre al archivo por .iso ).
 + 2 Seleccionar la ubicación y nombre del archivo parcheado que se generará.
 + 3 Seleccionar las opciones de randomización deseadas.
