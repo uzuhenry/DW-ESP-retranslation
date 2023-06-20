@@ -1,3 +1,11 @@
+# V 1.3  -  20/06/2023
+  Algunos fixes. En concreto uno de un bug aparecido en la 1.21 debido a los cambios realizados para adaptar el juego al randomizador de enemigos.
+  
+  **Las partidas guardadas son compatibles entre parches**
+  
+  -El algoritmo de selector de música de combate ha sido arreglado, no mas música de endgame contra un Digimon niño.
+  -Se han corregido algunos textos.
+  
 # V 1.22  -  25/05/2023
   Se han solucionado un par de casos no previstos del randomizador de enemigos, si no lo has usado/vas a usar, esta actualización es irrelevante.
   
