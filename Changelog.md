@@ -3,22 +3,22 @@
   
   **Las partidas guardadas son compatibles entre parches**
   
-  -El algoritmo de selector de música de combate ha sido arreglado, no mas música de endgame contra un Digimon niño.
-  -Se han corregido algunos textos.
+  - El algoritmo de selector de música de combate ha sido arreglado, no mas música de endgame contra un Digimon niño.
+  - Se han corregido algunos textos.
   
 # V 1.22  -  25/05/2023
   Se han solucionado un par de casos no previstos del randomizador de enemigos, si no lo has usado/vas a usar, esta actualización es irrelevante.
   
   **Las partidas guardadas son compatibles entre parches**
   
-  -Solucionados un par de bugs en la randomización de enemigos, en concreto un par de crashes y algunos enemigos mal mapeados que no cargaban.
+  - Solucionados un par de bugs en la randomización de enemigos, en concreto un par de crashes y algunos enemigos mal mapeados que no cargaban.
   
 # V 1.21  -  30/04/2023
   El bug no quería por las buenas, así que ha tenido que ser por las malas.
   
   **Las partidas guardadas son compatibles entre parches**
   
-  -Bug de Insekimon al fin arreglado (y esperemos que ahora de verdad), si sale volando es lo normal.
+  - Bug de Insekimon al fin arreglado (y esperemos que ahora de verdad), si sale volando es lo normal.
   
 # V 1.2  -  26/04/2023
   Esta actualización remata la correcciones de la traducción, arregla los últimos molestos bugs que afectaban al gameplay y añade nuevos randomizers.
