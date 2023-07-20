@@ -48,6 +48,8 @@ https://dotnet.microsoft.com/es-es/download/dotnet/thank-you/runtime-desktop-6.0
 Puedes consultar el changelog aquí: https://github.com/uzuhenry/DW-ESP-retranslation/blob/main/Changelog.md
 
   + **[V1.3] 20/06/2023** - https://drive.google.com/file/d/1qcAoTsYHqdFOf1lAmwyrzisJEJtu1qF8/view?usp=sharing
+    
+     (MIRROR)    https://www.mediafire.com/file/n97bdiakq7tmn6m/file
   
   + [V1.22] 25/05/2023 - https://drive.google.com/file/d/1dsRM1SxLRJ__iXB4V2EwutFa6Hhxx51v/view?usp=sharing
 
